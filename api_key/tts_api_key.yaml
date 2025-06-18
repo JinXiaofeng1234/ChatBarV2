@@ -1,0 +1,17 @@
+Fish Audio 1.5:
+  mode: "0"
+  img_path: "imgs/model_icon/fish_audio.png"
+  api_key: ""
+  "model_name": "speech-1.5"
+
+Fish Audio 1.6:
+  mode: "0"
+  img_path: "imgs/model_icon/fish_audio.png"
+  api_key: ""
+  "model_name": "speech-1.6"
+
+Fish Audio agent-x:
+  mode: "0"
+  img_path: "imgs/model_icon/fish_audio.png"
+  api_key: ""
+  "model_name": "agent-x"

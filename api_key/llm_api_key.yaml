@@ -1,0 +1,18 @@
+DEEPSEEK V3:
+  mode: "0"
+  img_path: "imgs/model_icon/deepseek V3.png"
+  api_key: ""
+  base_url: "https://api.deepseek.com"
+  model_name: "deepseek-chat"
+DEEPSEEK R1:
+  mode: "0"
+  img_path: "imgs/model_icon/deepseek V3.png"
+  api_key: ""
+  base_url: "https://api.deepseek.com"
+  model_name: "deepseek-reasoner"
+Gemini 2.5 Flash:
+  mode: "0"
+  img_path: 'imgs\model_icon\Gemini-Logo.png'
+  api_key: ""
+  base_url: "https://openrouter.ai/api/v1"
+  model_name: "google/gemini-2.5-flash-preview-05-20"
